@@ -8,7 +8,7 @@
 
 4. Display current directory contents, including hidden files
 
-5. 
+5. Display current directory contents.Long format, with user and group IDs displayed numerically and  hidden files (starting with .)
 
 6. 
 
