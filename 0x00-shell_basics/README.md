@@ -1,6 +1,6 @@
 0. prints thie absolute path name of the current working directory
 
-1. 
+1. Display the contents list of your current directory
 
 2. 
 
