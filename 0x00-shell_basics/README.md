@@ -18,7 +18,7 @@
 
 9. A script that deletes my_first_directory
 
-10. 
+10. A script that changes the current working directory to the previous one
 
 11. 
 
