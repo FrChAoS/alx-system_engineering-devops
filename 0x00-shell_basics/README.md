@@ -24,4 +24,4 @@
 
 12. 
 
-13. 
+13. A script creates a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory. 
