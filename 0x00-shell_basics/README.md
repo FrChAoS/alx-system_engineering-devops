@@ -14,7 +14,7 @@
 
 7. A script that moves  the file betty from /tmp/ to /tmp/my_first_directory
 
-8. 
+8. A script that deletes the file Betty
 
 9. 
 
