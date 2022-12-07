@@ -7,7 +7,7 @@
 
 3. 
 
-4. 
+4. A script that lists environment variables
 
 5. 
 
