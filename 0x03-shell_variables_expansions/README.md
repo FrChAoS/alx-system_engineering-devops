@@ -13,7 +13,7 @@
 
 6. A script that creates a new local variable
 
-7. 
+7. A script that creates a new global variable
 
 8. 
 
